@@ -2,7 +2,7 @@
 
 ## Toate cerintele au fost atinse.
 
-##BACKEND
+## BACKEND
 
 * 3 Controllere (minim); 
 
@@ -12,7 +12,7 @@
 
 * Cel puțin 1 relație între tabele din fiecare fel (One to One, Many to Many, One to Many); 
 
-*Folosirea metodelor din Linq: GroupBy, Where, etc; Folosirea Join si Include  
+* Folosirea metodelor din Linq: GroupBy, Where, etc; Folosirea Join si Include  
 
 
 * Autentificare + Roluri;  Autorizare pe endpointuri în funcție de Roluri; Cel putin 2 Roluri: Admin, User
@@ -21,7 +21,7 @@
 * Sa se foloseasca repository pattern/unit of work 
  
  
-##FRONTEND
+## FRONTEND
  
 * Cel putin 3 componente 
 
