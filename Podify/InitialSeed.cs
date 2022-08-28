@@ -15,11 +15,6 @@ namespace Podify
         private UserManager<User> _userManager;
         private AppDbContext _projectContext;
 
-        /*public InitialSeed(RoleManager<Role> roleManager)
-        {
-            _roleManager = roleManager;
-        }*/
-
         public InitialSeed(RoleManager<Role> roleManager, UserManager<User> userManager, AppDbContext projectContext)
         {
             _roleManager = roleManager;
@@ -27,23 +22,6 @@ namespace Podify
             _projectContext = projectContext;
         }
 
-        /*public async void CreateRoles()
-        {
-            string[] roleNames =
-            {
-                "Admin",
-                "BasicUser"
-            };
-
-            foreach (var roleName in roleNames)
-            {
-                var role = new Role
-                {
-                    Name = roleName
-                };
-                _roleManager.CreateAsync(role).Wait();
-            }
-        }*/
 
         public async Task SeedRoles()
         {
