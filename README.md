@@ -1,24 +1,24 @@
 # Podify : Web Development Project ASP.net 6 
 
-## Toate cerintele au fost atinse.
+## All requirements were met.
 
 ## BACKEND
 
-* 3 Controllere (minim); 
+* 3 Controllers 
 
-
-* Fiecare Metoda Crud, REST cu date din baza de date. 
+* CRUD 
  
+* 1:1, 1:M, M:M Relationships
 
-* Cel puțin 1 relație între tabele din fiecare fel (One to One, Many to Many, One to Many); 
+* Linq methods : GroupBy, Where, Join, Include, etc
 
-* Folosirea metodelor din Linq: GroupBy, Where, etc; Folosirea Join si Include  
+* Authentification
 
+* Roles: Admin, User 
 
-* Autentificare + Roluri;  Autorizare pe endpointuri în funcție de Roluri; Cel putin 2 Roluri: Admin, User
-
+* Authorization per role
  
-* Sa se foloseasca repository pattern/unit of work 
+* Repository pattern/unit of work 
  
  
 ## FRONTEND
