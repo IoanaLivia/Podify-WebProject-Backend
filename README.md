@@ -2,6 +2,8 @@
 
 ## All requirements were met.
 
+![](https://github.com/IoanaLivia/Podify-WebProject-Backend/blob/master/Assets/Podify.png)
+
 ## BACKEND
 
 * 3 Controllers 
