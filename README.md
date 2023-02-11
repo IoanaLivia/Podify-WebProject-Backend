@@ -21,28 +21,3 @@
 * Authorization per role
  
 * Repository pattern/unit of work 
- 
- 
-## FRONTEND
- 
-* Cel putin 3 componente 
-
-* Existenta rutelor(simple + parametru). 
-
- 
-* Cel putin 3 servicii conectate la serverul din .Net . Afisarea de date din servicii in componente.
-
-
-* Cel putin 2 formulare. (Reactive forms) - inafara de login/register
-
-
-* Implementarea metodelor de comunicare intre componente. (neaparat sa fie folosita macar 1 data comunicarea printr-un serviciu)
-
-
-* Cel putin 1 directiva. (pe langa cea facuta la laborator) 
-
-
-* Pipe
-
-
-* Register + Login + Implementare Guard check guard 
