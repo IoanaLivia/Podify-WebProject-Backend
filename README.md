@@ -2,7 +2,7 @@
 
 ## All requirements were met.
 
-![](https://github.com/IoanaLivia/Podify-WebProject-Backend/blob/master/Assets/Podify.png)
+![](https://github.com/IoanaLivia/Podify-WebProject-Backend/blob/master/Assets/Podify_800res.png)
 
 ## BACKEND
 
