@@ -1,6 +1,7 @@
 # Podify : Web Development Project ASP.net 6 
 
-## All requirements were met.
+### Project developed in the second year at University of Bucharest, Faculty of Mathematics and Informatics.
+### All requirements were met.
 
 ![](https://github.com/IoanaLivia/Podify-WebProject-Backend/blob/master/Assets/Podify_800res.png)
 
